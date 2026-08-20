@@ -29,3 +29,6 @@ Combines **multi-source Earth observation data** (CHIRPS, Sentinel-2, SRTM) with
 | **Kenya KNBS** | National Bureau of Statistics | County-level | Maize yields (2015-2023) |
 
 ### Features Engineered
+- **Seasonal Precipitation**: Total rainfall, peak monthly rainfall, and rainfall variance.
+- **Vegetation Dynamics**: Peak growing season mean NDVI.
+- **Topography**: Mean elevation and terrain slope.
