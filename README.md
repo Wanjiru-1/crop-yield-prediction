@@ -72,6 +72,15 @@ Peak monthly rainfall alone accounts for nearly 60% of predictive power, consist
 
 ---
 
+## Reproduce This Analysis
+
+- **Notebook (GitHub)**: [`Kenya_Maize_Yield_Prediction.ipynb`](Kenya_Maize_Yield_Prediction.ipynb)
+- **Notebook (Google Colab)**: [Open in Colab](https://colab.research.google.com/drive/1n5eazqEnWIe5GjX9H0_9qD0tUfJy6acb)
+
+The notebook requires a Google Earth Engine account and project. Before running, replace the `ee.Initialize(project='...')` call with your own GEE project ID.
+
+---
+
 ## Limitations
 
 - **Sample size**: 9 years is small by statistical standards; confidence intervals are wide.
