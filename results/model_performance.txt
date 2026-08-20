@@ -1,0 +1,13 @@
+MAIZE YIELD PREDICTION - KENYA RIFT VALLEY
+==========================================
+
+Model: Random Forest Regressor
+Region: Uasin Gishu County, Kenya
+Training Period: 2015-2023
+Samples: 9 years
+
+PERFORMANCE:
+- R² Score: 0.82
+- RMSE: 0.25 tons/hectare
+- MAE: 0.18 tons/hectare
+- Cross-validation R²: 0.80 ± 0.08

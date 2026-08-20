@@ -1,0 +1,6 @@
+DATA SOURCES
+============
+1. CHIRPS (Precipitation) - 5 km resolution
+2. Sentinel-2 - NDVI mean
+3. SRTM - Elevation & slope
+4. KNBS - Maize yield by county
